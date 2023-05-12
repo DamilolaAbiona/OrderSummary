@@ -1,7 +1,7 @@
 # Frontend Mentor - Order summary card
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
- # ![view Demo Here](https://comparative-counter-5dpr-5en1leu10-damilolaabiona.vercel.app)
+ # [view Demo Here](https://comparative-counter-5dpr-5en1leu10-damilolaabiona.vercel.app)
 
 ## Welcome! 👋
 
